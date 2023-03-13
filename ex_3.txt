@@ -1,0 +1,12 @@
+a) 1, 3, 5, 7, (9) -> Números ímpares
+
+b) 2, 4, 8, 16, 32, 64, (128) -> 2^N, N > 0
+
+c) 0, 1, 4, 9, 16, 25, 36, (49) -> Números quadrados N^2, N>=0
+
+d) 4, 16, 36, 64, (100) -> Soma de números baseado em uma PA 12, 20, 28, 36...
+12, 20, 28
+
+e) 1, 1, 2, 3, 5, 8, (13) -> Fibonacci
+
+f) 2, 10, 12, 16, 17, 18, 19, (200) -> Núermos que possuem sua escrita por extenso iniciadas com a letra 'D'
